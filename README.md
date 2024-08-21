@@ -21,7 +21,7 @@ Video Share is a web application built for sharing and viewing videos. It featur
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/video-share.git
+   git clone https://github.com/Rohit280309/video-share.git
    ```
 
 2. Navigate to the project directory:
@@ -41,7 +41,9 @@ Video Share is a web application built for sharing and viewing videos. It featur
     TOKEN_SECRET=Thisisatokensecret
     ``` 
 
-5. Start the server
+5. Download the `ffmpeg ffprobe` and put it in the root directory.
+
+6. Start the server
     ```bash
     npm run dev
     ```
